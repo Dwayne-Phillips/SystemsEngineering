@@ -2,6 +2,12 @@
 
 Let's see if I can create content to put on this GitHub Page.
 
+## A Short and Practical Book on Systems Engineering
+
+I wrote a short and practical book on systems engineering. 
+https://github.com/Dwayne-Phillips/SystemsEngineering/blob/master/JustEnoughSystemsEngineering.pdf
+
+
 
 ## Welcome to GitHub Pages
 
